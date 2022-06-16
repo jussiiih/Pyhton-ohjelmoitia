@@ -1,1 +1,1 @@
-# Pyhton-ohjelmoitia
+# Python-ohjelmointia
